@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-17T07:41:23Z" name="Suite" finished-at="2023-10-17T07:41:33Z" duration-ms="9795">
+  <suite started-at="2023-10-18T05:32:34Z" name="Suite" finished-at="2023-10-18T05:32:44Z" duration-ms="9825">
     <groups>
     </groups>
-    <test started-at="2023-10-17T07:41:23Z" name="Test" finished-at="2023-10-17T07:41:33Z" duration-ms="9795">
+    <test started-at="2023-10-18T05:32:34Z" name="Test" finished-at="2023-10-18T05:32:44Z" duration-ms="9825">
       <class name="AutomationProject.EarnkaroLoginPage">
-        <test-method signature="getLogin()[pri:0, instance:AutomationProject.EarnkaroLoginPage@379614be]" started-at="2023-10-17T07:41:23Z" name="getLogin" finished-at="2023-10-17T07:41:33Z" duration-ms="9751" status="PASS">
+        <test-method signature="getLogin()[pri:0, instance:AutomationProject.EarnkaroLoginPage@1acaf3d]" started-at="2023-10-18T05:32:34Z" name="getLogin" finished-at="2023-10-18T05:32:44Z" duration-ms="9783" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getLogin -->
