@@ -4,6 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="AutomationProject.EarnkaroLoginPage"/>
+      <class name="AutomationProject.FlipkartSearchPage"/>
+      <class name="AutomationProject.EarnkaroAffHistoryPage"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

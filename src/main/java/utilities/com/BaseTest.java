@@ -33,6 +33,7 @@ public class BaseTest {
 			driver = new ChromeDriver();
 
 		} else if (browserName.equalsIgnoreCase("firefox")) {
+
 			FirefoxOptions cp = new FirefoxOptions();
 			cp.setBrowserVersion("117");
 
