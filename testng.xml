@@ -5,7 +5,9 @@
     <classes>
       <class name="AutomationProject.EarnkaroLoginPage"/>
       <class name="AutomationProject.FlipkartSearchPage"/>
+      <class name="AutomationProject.FlipkartAddToCartPage"/>
       <class name="AutomationProject.EarnkaroAffHistoryPage"/>
+      <class name="AutomationProject.EarnleyActivity"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
